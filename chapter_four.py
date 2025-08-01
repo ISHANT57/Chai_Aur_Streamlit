@@ -48,6 +48,11 @@ if file is not None:
         with col3:
             st.metric("Column Names", ", ".join(df.columns.tolist()))
 
+        
+        name=df["Name"].unique()
+        select_name=st.selectbox("Select a Name", name)
+        filter_df=df[df["Name"]==select_name]
+        st.dataframe(filter_df, use_container_width=True)
         # Optional: Show data types
         with st.expander("🧠 View Column Data Types"):
             st.write(df.dtypes)
