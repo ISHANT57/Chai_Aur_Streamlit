@@ -111,7 +111,7 @@ else:
                 st.rerun()
 
 
-# --- Footer ---
+# --- Footer --
 st.markdown("---")
 st.caption("✅ Pro-Do List • Made with Streamlit By Ishant")
 
