@@ -2,8 +2,8 @@
 
 Welcome to my "Chai Aur Streamlit" repository! This project documents my journey of learning Streamlit from the ground up. What started as a simple exploration has culminated in a feature-rich, professional To-Do list application. This README serves as a guide to the project, the concepts I've learned, and the final application.
 
-![Pro-Do List Screenshot](Screenshot 2025-08-01 161841.png)
-
+![Pro-Do List Screenshot]
+![Screenshot](Screenshot%202025-08-01%20161841.png)
 
 ---
 
