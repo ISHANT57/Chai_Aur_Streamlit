@@ -13,7 +13,7 @@ The goal of this project was to learn the fundamentals of building interactive w
 
 ---
 
-## 🌟 Features of the Pro-Do App
+## 🌟 Features of the Pro-ToDo App
 
 The final application includes a comprehensive set of features, demonstrating a wide range of Streamlit's capabilities:
 
